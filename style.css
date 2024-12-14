@@ -1,0 +1,44 @@
+ body {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+     margin: 0;
+     padding: 20px;
+     background-color: rgb(171, 175, 145);
+ }
+ /* Element Selector*/
+ 
+ h2 {
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-align: center;
+     margin-top: 10px;
+     margin-left: 20px;
+     margin-right: 35px;
+     padding: 30px;
+     background-color: rgb(54, 219, 231);
+ }
+ /* Class Selector*/
+ 
+ .highlight {
+     background-color: yellow;
+     text-align: left;
+ }
+ /* ID Selector */
+ 
+ #content1 {
+     max-width: 800px;
+     margin: 0 auto;
+     padding: 20px;
+     background-color: rgb(159, 248, 229);
+     border: 2px solid black;
+     border-radius: 5px;
+ }
+ 
+ #content2 {
+     max-width: 800px;
+     margin: 0 auto;
+     margin-top: 10px;
+     padding: 20px;
+     background-color: rgb(19, 224, 156);
+     border: 2px solid rgb(233, 22, 215);
+     border-radius: 10px;
+ }
